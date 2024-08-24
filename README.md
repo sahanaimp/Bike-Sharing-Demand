@@ -8,3 +8,7 @@ This project demonstrates my ability to use AutoGluon to train several iteration
 Bike-sharing demand is highly relevant to related problems companies encounter, such as Uber, Lyft, and DoorDash. Predicting demand not only helps businesses prepare for spikes in their services but also improves customer experience by limiting delays.
 
 In the end, I submitted several entries to the competition and achieved a rank within Kaggle. I also completed a report of your findings that that I shared on Kaggle.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
