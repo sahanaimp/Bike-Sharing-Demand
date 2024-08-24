@@ -1,7 +1,7 @@
 
 ## Udacity Project: Predict Bikesharing demand using AutoGluon
 
-In this project, you'll use the AutoGluon(opens in a new tab) library to train several models for the Bike Sharing Demand(opens in a new tab) competition in Kaggle. I used Tabular Prediction  to fit data from CSV files provided by the competition. 
+In this project,I used the AutoGluon(opens in a new tab) library to train several models for the Bike Sharing Demand(opens in a new tab) competition in Kaggle. I used Tabular Prediction  to fit data from CSV files provided by the competition. 
 
 This project demonstrates my ability to use AutoGluon to train several iterations of models and record my personal optimization of the problem.
 
